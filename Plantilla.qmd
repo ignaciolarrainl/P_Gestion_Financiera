@@ -286,10 +286,35 @@ Despues de valorarlo mediante los dos modelos, se llego a que la opción de comp
 
 ### Reporte Grupal: Caso Administración
 
-Se eligen uno de los siguientes casos con tal de replicar y responder sus preguntas de acuerdo al activo principal elegido:
+Para esta entrega se escogió el caso de administración de efectivo de Braam Industries entre los tres casos de administración entregados en el libro ROSS. En este caso se llevó a cabo un análisis de la política de crédito que lleva la empresa y se buscó una mejor estrategia para esta. 
 
--   Caso Administración de Capital de Trabajo de Keafer Manufacturing de la página 822 del ROSS.
+Con el fin de cumplir las indicaciones del caso, se escogió a la empresa Cencosud y se utilizó información proporcionada por la misma empresa en su informe de [estados financieros consolidados de fines del año 2022](https://www.cencosud.com/cencosud/site/docs/20220811/20220811182803/estados_financieros__pdf_93834000_202212.pdf). Se obtuvo la siguiente información:
 
--   Caso Administración de Efectivo de Richmond Corporation de la página 845 del ROSS.
+|                             |                   |
+|-----------------------------|-------------------|
+| Datos                       | Valor \[CLP\]     |
+| Ingresos por Ventas Anuales | \$ 13.840.296.724 |
+| Costos de Ventas            | \$ 10.129.992.951 |
+| Costos Administrativos      | \$ 2.716.362.244  |
+| Cuentas por cobrar 2022     | 818.295.093       |
+| Cuentas por Cobrar 2021     | 726.172.300       |
 
--   Caso Administración de Efectivo de Braam Industries de la página 874 del ROSS.
+A partir de esta información, se pudo calcular la tasa de incumplimiento, los costos administrativos, el periodo de cuentas por cobrar, ventas diarias, el costo variable y finalmente el VPN de la empresa
+
+|                                      |               |
+|--------------------------------------|---------------|
+| Tasa de incumplimiento (% de ventas) | 5,91%         |
+| Costos Administrativos (% de ventas) | 19,63%        |
+| Periodo de cuentas por Cobrar (días) | 20            |
+| Costo Variable                       | \$ 27.753.405 |
+
+Posteriormente, se calculó el valor presente Neto (VPN) con el fin de evaluar cada opción y sus respectivos valores. Cabe mencionar que existen variaciones en los valores de cada opción (ya que según el texto estas deben seguir una propuesta de política diferente a la que está vigente). En base a lo anterior, se elegirá la opción tenga el valor de VPN más alto en relación a las demás propuestas. A continuación se pueden observar los resultados del VPN para las 3 opciones.
+
+|          |               |
+|----------|---------------|
+| Opciones | VPN \[CLP\]   |
+| Opción 1 | \$ 75.126.629 |
+| Opción 2 | \$ 29.194.037 |
+| Opción 3 | \$ 82.488.526 |
+
+Basándonos en los valores presentes netos (VPN) obtenidos, se puede concluir que la opción 3 es la más favorable, sugiriendo que Cencosud debería considerar la adopción de esta política.
