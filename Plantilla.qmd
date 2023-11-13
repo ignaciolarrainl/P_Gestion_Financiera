@@ -178,7 +178,7 @@ print(call_option_price)
 
 ```
 
-### Modelo Adicional de valorizacion: Modelo Binomial
+### Modelo Adicional de valorizacion: 
 
 Este modelo lo que hace es que va calculando el precio de manera recursiva de la opción de compra o venta, donde va calculando el precio desde el vencimiento de la opción hasta la fecha actual. [Este modelo es mas simple y generalizado que el black and scholes, por lo que es más facil de calcular e incluso se llega a un optimo de manera más facil.](https://www.sciencedirect.com/science/article/abs/pii/0304405X79900151)
 
