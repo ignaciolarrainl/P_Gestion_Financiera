@@ -111,6 +111,8 @@ Engie Energia Chile ha emitido 5 veces acciones desde su entrada a la bolsa. En 
 
 [![Imagen 4.2.1: Emisión de acciones](photos/WhatsApp%20Image%202023-09-27%20at%2017.43.44.jpeg){fig-align="center" width="909"}](https://www.cmfchile.cl/institucional/estadisticas/acc_registro1.php?lang=es)
 
+Ya que no se encontró información sobre emision de acciones de parte de Engie Energia, se busco una de la misma industria, donde Gener en el año 2000 en busca de nuevos socios lanzo una o[ferta publica de adquision de acciones (OPA](https://www.cmfchile.cl/sitio/aplic/serdoc/ver_sgd.php?s567=6272e38aa521235de3f75861e55e2b73VFdwQmVVMUVSWGxOUkZWNFQwUmplVTlSUFQwPQ==&secuencia=-1&t=1662907501)) en la Bolsa de Comercio de Santiago, donde Cachagua SpA adquirio el 61,11% de la empresa
+
 #### 4.4 Relación con activos derivados
 
 Engie Energia Chile cuenta con dos tipos de derivados, forwards y swaps. Como mencionan en su estados financieros, estos derivados fueron tomados para protejerse del riesgo del tipo de cambio, siendo los forwards calificados como cobertura de flujo de efectivos. A continuación se muestra los derivados:
@@ -176,9 +178,9 @@ print(call_option_price)
 
 ```
 
-### Modelo Adicional de valorizacion
+### Modelo Adicional de valorizacion: Modelo Binomial
 
-Este modelo lo que hace es que va calculando el precio de manera recursiva de la opción de compra o venta, donde va calculando el precio desde el vencimiento de la opción hasta la fecha actual.
+Este modelo lo que hace es que va calculando el precio de manera recursiva de la opción de compra o venta, donde va calculando el precio desde el vencimiento de la opción hasta la fecha actual. [Este modelo es mas simple y generalizado que el black and scholes, por lo que es más facil de calcular e incluso se llega a un optimo de manera más facil.](https://www.sciencedirect.com/science/article/abs/pii/0304405X79900151)
 
 Opción de compra:
 
